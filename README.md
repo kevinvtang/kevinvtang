@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Current framework  
 
 1. Systems > Motivation
 2. Consistency > Intensity
 3. Leverage > Hustle (smarter not harder)
-4. Done > Perfect (speed wins)
+4. Iteration > Perfection (speed wins)
 5. Deep Work > Busy Work (Creating is better than reacting)
