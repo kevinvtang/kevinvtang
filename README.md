@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Speed wins  
+1. Systems > Motivation
+2. Consistency > Intensity
+3. Leverage > Hustle (smarter not harder)
+4. Done > Perfect (speed wins)
+5. Deep Work > Busy Work (Creating is better than reacting)
