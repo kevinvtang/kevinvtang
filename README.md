@@ -20,4 +20,4 @@ Current framework
 2. Consistency > Intensity
 3. Leverage > Hustle (smarter not harder)
 4. Iteration > Perfection (speed wins)
-5. Deep Work > Busy Work (Creating is better than reacting)
+5. Deep Work > Busy Work (don't just react, create)
