@@ -19,5 +19,6 @@ Current framework
 1. Systems > Motivation
 2. Consistency > Intensity
 3. Leverage > Hustle (smarter not harder)
-4. Iteration > Perfection (speed wins)
-5. Deep Work > Busy Work (don't just react, create)
+4. ... but also, hustle...
+5. Iteration > Perfection (speed wins)
+6. Deep Work > Busy Work (don't just react, create)
